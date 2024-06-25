@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnk0dev)](https://github.com/bnk0dev/github-readme-stats)
 <!--
 **bnk0dev/bnk0dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
