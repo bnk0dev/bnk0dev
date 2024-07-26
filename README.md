@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilal Nurullah KOÇ</h1>
+<h1 align="center">Hi 👋 I'm Bilal Nurullah KOÇ</h1>
 <h3 align="center">I am a backend developer from Türkiye</h3>
 
 - 📫 How to reach me **kocbilalnurullah@gmail.com**
